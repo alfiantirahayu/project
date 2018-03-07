@@ -1,0 +1,64 @@
+[
+    {
+        "name":"ADIDAS ULTRABOOST UNCAGED",
+        "picture":"img/assets/ads1.JPG",
+        "harga":"Rp 2.499.000",
+        "size":"Size : 42"
+    },
+    {
+        
+        "name":"ADIDAS TUBULAR WEAVE",
+        "picture":"img/assets/ads2.JPG",
+        "harga":"Rp 899.000",
+        "size":"Size : 43"
+    },
+    {
+        
+        "name":"ADIDAS TUBULAR WEAVE",
+        "picture":"img/assets/ads3.JPG",
+        "harga":"Rp 999.000",
+        "size":"Size : 39"
+    },
+    {
+        
+        "name":"ADIDAS ULTRABOOST UNCAGED",
+        "picture":"img/assets/ads4.JPG",
+        "harga":"Rp 3.099.000",
+        "size":"Size : 42"
+    },
+{
+    
+    "name":"ASICS GEL LYTE III X JCREW X PACKER",
+    "picture":"img/assets/asics.JPG",
+    "harga":"Rp 2.499.000",
+    "size":"Size : 44"
+},
+{
+    
+    "name":"NIKE AIR PRESTO",
+    "picture":"img/assets/nike1.JPG",
+    "harga":"Rp 1.299.000",
+    "size":"Size : 41"
+},
+{
+    
+    "name":"NIKE FLYKNIT RACER FOR WOMENS",
+    "picture":"img/assets/nike2.JPG",
+    "harga":"Rp 1.799.000",
+    "size":"Size : 40"
+},
+{
+    
+    "name":"WMNS NIKE DUNK SKY HIGH PRINT",
+    "picture":"img/assets/nike3.JPG",
+    "harga":"Rp 1.299.000",
+    "size":"Size : 41"
+},
+{
+    
+    "name":"NIKE FLYKNIT RACER FOR WOMENS",
+    "picture":"img/assets/nike4.JPG",
+    "harga":"Rp 1.799.000",
+    "size":"Size : 40"
+}
+]
